@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Ludeme/Ludeme/resources/ludii-logo-64x64.png">
+<img align="right" src="./resources/ludii-logo-64x64.png">
 
 # Ludii
 
