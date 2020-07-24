@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Ludeme/Ludeme/resources/ludii-logo-64x64.png">
+<img align="right" src="https://github.com/Ludeme/Ludeme/blob/master/resources/ludii-logo-64x64.png">
 
 # Ludii
 
@@ -16,4 +16,4 @@ This GitHub profile contains various repositories related to Ludii and the proje
 
 Ludii is part of the European Research Council-funded Digital Ludeme Project (ERC Consolidator Grant \#771292), being run by Cameron Browne at Maastricht University's Department of Data Science and Knowledge Engineering. 
 
-<a href="https://erc.europa.eu/"><img src="./resources/LOGO_ERC-FLAG_EU_.jpg" title="Funded by the European Research Council" alt="European Research Council Logo" height="384"></a>
+<a href="https://erc.europa.eu/"><img src="https://github.com/Ludeme/Ludeme/blob/master/resources/LOGO_ERC-FLAG_EU_.jpg" title="Funded by the European Research Council" alt="European Research Council Logo" height="384"></a>
